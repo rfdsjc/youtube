@@ -1,6 +1,6 @@
 # youtube
 
-A new Flutter project.
+Desenvolvimento do clone do Youtube, utilizando a api para reproduzir os videos.
 
 ## Getting Started
 
